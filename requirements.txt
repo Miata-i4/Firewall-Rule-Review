@@ -1,0 +1,12 @@
+# Existing requirements
+pandas
+openpyxl
+xlsxwriter
+prettytable
+colorama
+tabulate
+pybatfish
+tqdm
+
+# Add for web UI
+streamlit
