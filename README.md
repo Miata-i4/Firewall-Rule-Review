@@ -1,2 +1,2 @@
 # Firewall-Rule-Review
-This is a streamlit based Web UI app that processes firewall rules in a local machine
+This is a streamlit based Web UI app that processes firewall rules in a local machine, identifies security risks, analyzes rule misconfigurations, and generates actionable reports.
