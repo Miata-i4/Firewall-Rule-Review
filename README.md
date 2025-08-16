@@ -1,2 +1,19 @@
-# Firewall-Rule-Review
-This is a streamlit based Web UI app that processes firewall rules in a local machine, identifies security risks, analyzes rule misconfigurations, and generates actionable reports.
+# Firewall Rule Review App
+Windows firewall security auditing tool
+
+## Features
+- Risk detection
+- Excel reporting
+- Web UI
+
+## Usage
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# CLI version
+python cli/main.py
+
+# Web version
+streamlit run web/web_ui.py
+```
